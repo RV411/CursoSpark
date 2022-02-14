@@ -21,6 +21,13 @@ mapValues()
 flatMapValues()
 
 
-Salem Beltran
-Gamaliel Abisai Beltran Noveron
-bgamaliel3@gmail.com
+conocer las personas que estan conectadas entre si
+Breadth First Search
+Shadow Profiles
+
+
+persist guarda RDD en el disco
+cache   guarda RDD en memoria
+
+local[*] se usaran todos los nucleos de la computadora  
+
