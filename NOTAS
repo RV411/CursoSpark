@@ -1,0 +1,26 @@
+
+
+Activar maquina virtual
+activate bigdata
+
+Saber si instalaste bien spark
+
+cd  C:\spark
+pyspark
+
+
+Ejecutar cualquier programa py con spark
+spark-submit contador.py
+
+
+
+ (clave, valor)
+
+ si no se afecta las claves se usa:
+mapValues()
+flatMapValues()
+
+
+Salem Beltran
+Gamaliel Abisai Beltran Noveron
+bgamaliel3@gmail.com
